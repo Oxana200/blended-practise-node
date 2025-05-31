@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "generate": "node src/scripts/generateProducts.js",
+    "add-one": "node src/scripts/addOneProduct.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

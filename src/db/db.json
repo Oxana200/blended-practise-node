@@ -22,5 +22,23 @@
     "price": "32.69",
     "category": "Games",
     "description": "The Proactive 24/7 standardization Sausages offers reliable performance and downright design"
+  },
+  {
+    "name": "Fantastic Concrete Soap",
+    "price": "195.25",
+    "category": "Sports",
+    "description": "New Chips model with 79 GB RAM, 456 GB storage, and flimsy features"
+  },
+  {
+    "name": "Handcrafted Steel Hat",
+    "price": "384.45",
+    "category": "Health",
+    "description": "The Enhanced client-server archive Pizza offers reliable performance and scented design"
+  },
+  {
+    "name": "Sleek Bamboo Bike",
+    "price": "618.95",
+    "category": "Grocery",
+    "description": "New salmon Chips with ergonomic design for disloyal comfort"
   }
 ]
