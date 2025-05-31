@@ -6,10 +6,10 @@
   "scripts": {
     "generate": "node src/scripts/generateProducts.js",
     "add-one": "node src/scripts/addOneProduct.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "get-all": "node src/scripts/getAllProducts.js"
   },
   "repository": {
-    "type": "git",
+    "type": "git", 
     "url": "git+https://github.com/Oxana200/blended-practise-node.git"
   },
   "keywords": [],
